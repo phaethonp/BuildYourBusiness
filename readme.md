@@ -1,4 +1,4 @@
-# Wright — An Intelligent space to build your business
+# Wright — An Intelligent Space To Build Your Business
 **Wright — Where Your Business Takes Flight**
 
 * Wright Intelligent WorkSpace is designed to help Entrepreneurs on day 0 build their businesses, create project agreements, secure payments, and grow faster <br>
