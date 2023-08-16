@@ -2,7 +2,7 @@
 
 Intelligent WorkSpace is designed to help Entrepreneurs on day 0 build their businesses, create project agreements, secure payments, and grow faster<br>
 
-**User needs:**
+**User needs:**<br>
 Entrepreneurs, and business owners,  need a simple, secure, and efficient way to start and grow their businesses<br>
 
 * An easy and secure way to create agreements with clients and teams.
