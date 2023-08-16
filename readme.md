@@ -1,6 +1,5 @@
 # An Intelligent space to build your business
 
-**Unique Value Proposition:**
 Intelligent WorkSpace is designed to help Entrepreneurs on day 0 build their businesses, create project agreements, secure payments, and grow faster<br>
 
 **User needs:**
