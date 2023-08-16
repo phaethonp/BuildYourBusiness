@@ -31,7 +31,7 @@
       * Communications Hub: A centralized platform where clients, team members, and business owners can communicate in real-time
       * Generative AI engine to provide support in all aspects of running a business
  
-**Benefits: The Wright place for your business:**
+**Benefits — The Wright place for your business:**
 * **For Professionals:** Simplifies the process of offering services, interacting with clients, and managing projects. Provides payment security and a streamlined contracting process.
 * **For Clients:** Offers a convenient way to find and hire professionals, communicate project requirements, and manage projects. Ensures secure payments and a clear contracting process.
 
