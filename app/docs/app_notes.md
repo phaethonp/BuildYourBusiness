@@ -2,7 +2,11 @@
 
 1. Update the Contract Model: Add the new field to the Contract model.<BR>
 
+<<<<<<< HEAD
 ```ruby
+=======
+```
+>>>>>>> 7a428c28e32506133cd3e7059910e584a2260f3c
 # app/models/contract.rb
 class Contract < ApplicationRecord
   has_many :milestones
@@ -15,19 +19,31 @@ end
 
 2. Create a Migration: Generate a migration to add the new field to the contracts table<BR>
 
+<<<<<<< HEAD
 ```ruby
+=======
+```
+>>>>>>> 7a428c28e32506133cd3e7059910e584a2260f3c
 rails generate migration AddLegalJurisdictionToContracts legal_jurisdiction:string
 ```
 
 3. Run the Migration: Run the migration to update the database schema.
 
+<<<<<<< HEAD
 ``` shell
+=======
+``` SHELL
+>>>>>>> 7a428c28e32506133cd3e7059910e584a2260f3c
 rails generate migration AddLegalJurisdictionToContracts legal_jurisdiction:string
 ```
 
 4. Update the Contracts Controller: Add the new field to the strong parameters in the contracts controller.<BR>
 
+<<<<<<< HEAD
 ```ruby
+=======
+```
+>>>>>>> 7a428c28e32506133cd3e7059910e584a2260f3c
 # app/controllers/contracts_controller.rb
 class ContractsController < ApplicationController
   # ...
@@ -39,7 +55,11 @@ end
 
 5. Create the Contract Form: Create a form where users can create a contract using the updated template.<BR>
 
+<<<<<<< HEAD
 ```ruby
+=======
+```
+>>>>>>> 7a428c28e32506133cd3e7059910e584a2260f3c
 <!-- app/views/contracts/new.html.erb -->
 <%= form_for @contract do |f| %>
   <div class="field">
@@ -67,7 +87,11 @@ end
 6. Handle Form Submission: When the user submits the form, the create action in the ContractsController will handle the form data and create a new contract in the database.
 
 
+<<<<<<< HEAD
 ```ruby
+=======
+```
+>>>>>>> 7a428c28e32506133cd3e7059910e584a2260f3c
 # app/controllers/contracts_controller.rb
 class ContractsController < ApplicationController
   # ...
