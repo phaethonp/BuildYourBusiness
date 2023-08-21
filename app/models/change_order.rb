@@ -36,5 +36,7 @@ class ChangeOrder < ApplicationRecord
         change_order: self
     )
     new_milestone.save
+    # Update the contract attributes affected by the new milestone
+    self.contract.update_contract_after_new_milestone
    end
 end

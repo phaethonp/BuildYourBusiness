@@ -1,3 +1,15 @@
+
+# NOTES FOR ME
+# Proecess to modify the form to add new fields
+# Update the ContractTemplate model to include the new field (for example, legal_jurisdiction).
+# Create a migration to add the new column to the contract_templates table in the database.
+# Update the form in the view to include a new form field for the "Legal Jurisdiction".
+# Update the controller to handle the new field when the form is submitted.
+
+
+
+
+
 <%= form_for @contract_template do |f| %>
   <div class="field">
     <%= f.label :scope_of_work_template %><br>
