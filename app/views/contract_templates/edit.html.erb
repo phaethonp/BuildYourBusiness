@@ -1,0 +1,17 @@
+<%= form_for @contract_template do |f| %>
+  <div class="field">
+    <%= f.label :scope_of_work_template %><br>
+    <%= f.text_area :scope_of_work_template %>
+  </div>
+  <div class="field">
+    <%= f.label :payment_terms_template %><br>
+    <%= f.text_area :payment_terms_template %>
+  </div>
+  <div class="field">
+    <%= f.label :deadlines_template %><br>
+    <%= f.text_area :deadlines_template %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
